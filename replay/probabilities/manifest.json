@@ -1,0 +1,52 @@
+{
+  "schema": "seed-probability-replay-1",
+  "distribution": "Public GitHub code and result-data release",
+  "branches": [
+    "M",
+    "D",
+    "S"
+  ],
+  "classes": [
+    "C00",
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05",
+    "C06",
+    "C07",
+    "C08",
+    "C09",
+    "C10",
+    "C11"
+  ],
+  "alphas": [
+    0.0,
+    0.1,
+    0.2,
+    0.3333333333333333,
+    0.5
+  ],
+  "ks": [
+    "1",
+    "3",
+    "5",
+    "10",
+    "20",
+    "all"
+  ],
+  "files": {
+    "batch2.npz": {
+      "sha256": "3dfe899582732538981ae57a9856864af884c3739bebaf5f62a1fb3b9b23a3bb",
+      "bytes": 579282,
+      "rows": 3627,
+      "trays": 67
+    },
+    "batch3.npz": {
+      "sha256": "e03a2cda427af4e897b551b4837c2d890723201367c6e1f7fef9bc5f12f9a7eb",
+      "bytes": 50312,
+      "rows": 280,
+      "trays": 10
+    }
+  }
+}

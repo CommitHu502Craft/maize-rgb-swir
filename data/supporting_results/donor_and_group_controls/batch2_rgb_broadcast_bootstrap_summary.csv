@@ -1,0 +1,5 @@
+﻿analysis,k,contrast,bootstrap_repeats,point_estimate,bootstrap_mean,bootstrap_std,ci_2_5,ci_97_5,fraction_above_zero,ci_contains_zero,ci_strictly_above_zero,ci_strictly_below_zero
+RGB_group_broadcast,3,SGSEF_minus_Group_D_broadcast,2000,-0.3328156774171329,-0.3319183077655007,0.020709068392833253,-0.37110526221617696,-0.29005992151168136,0.0,False,False,True
+RGB_group_broadcast,3,Group_D_broadcast_minus_D_only,2000,0.44196255059774775,0.4408884242380071,0.02220684213211991,0.39556642844711026,0.48447376736900905,1.0,False,True,False
+RGB_group_broadcast,5,SGSEF_minus_Group_D_broadcast,2000,-0.3291891478302562,-0.3282796504685541,0.01993054065846125,-0.36598124579724456,-0.2876423237757529,0.0,False,False,True
+RGB_group_broadcast,5,Group_D_broadcast_minus_D_only,2000,0.4435055256269421,0.4424301903711114,0.021477206390825156,0.39970267675510607,0.484825605396473,1.0,False,True,False

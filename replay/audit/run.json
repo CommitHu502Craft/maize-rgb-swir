@@ -1,0 +1,77 @@
+{
+  "finished_utc": "2026-10-10T16:59:34.888549+00:00",
+  "python": "3.13.12 (main, Feb  3 2026, 22:53:26) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.4.4",
+  "pandas": "3.0.3",
+  "classes": [
+    "密甜糯1号",
+    "昕禾323",
+    "昕禾一号",
+    "浙糯玉19",
+    "浙糯玉22",
+    "浙糯玉24",
+    "澳早60",
+    "澳甜糯65",
+    "珍珍糯600",
+    "白甜糯6号",
+    "诚糯10号",
+    "金辉306"
+  ],
+  "alphas": [
+    0.0,
+    0.1,
+    0.2,
+    0.3333333333333333,
+    0.5
+  ],
+  "ks": [
+    "1",
+    "3",
+    "5",
+    "10",
+    "20",
+    "all"
+  ],
+  "sampling_seed": 20260913,
+  "sampling_repeats": 500,
+  "bootstrap_seed": 20260914,
+  "figure3_bootstrap_seed": 20260915,
+  "bootstrap_repeats": 2000,
+  "cohorts": {
+    "batch2": {
+      "seeds": 3627,
+      "trays": 67,
+      "represented_varieties": 12
+    },
+    "batch3": {
+      "seeds": 280,
+      "trays": 10,
+      "represented_varieties": 10
+    }
+  },
+  "files": {
+    "data/all_seed_branch_margins.csv": "71dda70552b4bb18908da34e75d9061411b4aaf0e6e520fe0f49454adf00d082",
+    "data/all_seed_decisions.csv": "f664f78410c7e021018bb7050cd275a006f3ca96fedcfd743bbad0c2e01b6932",
+    "data/batch2_bootstrap.npz": "ff4ddbece46c74e03440ca74906d26509ee52973eb8bc8814afa030638080777",
+    "data/batch2_decisions.npz": "15b544a91b093007cde1f74da3381e372a7147c8ca44f615bb594b74b40648fa",
+    "data/batch2_rows.csv": "c14a623217e5e0943e560a9537239eb018cfffe7e4cac64e2e83678d9dfa7ad2",
+    "data/batch2_schedule_hashes.csv": "d52eebcdce5ae63a8d6a4cd54a3f99a4e758c73022443692e14db1ff0f66b629",
+    "data/batch2_schedules.npz": "4e7a104cd30c79b0372bc263ef0999ddd78fbfaffdf2845f28a8397697d4b95e",
+    "data/batch2_trays.csv": "b14be8fc452c2138b0a57b55ddf6f4fb095a9bd0d773bb28b3618ec763558979",
+    "data/batch3_decisions.npz": "b338be17cd912b93298ac94081240b63df0f01f08f34dd049cf0bb054d247a0b",
+    "data/batch3_rows.csv": "32ed15c610dfb39dc4978dda349be2343608c38b66e3496c5c9f3a906de0f489",
+    "data/batch3_schedule_hashes.csv": "3197950d5d6d78120f18e581e3184fdb904100637f65cce9eb14074dbf9b61f2",
+    "data/batch3_schedules.npz": "efd80c59d4d693748a625ee2c8fbebfbf15e5c4ea6bb8020965df07db2f80b45",
+    "data/batch3_trays.csv": "0e12dfe4cb529bb81266a5733b72757f15a24d783fb951cde1040cd7a35fc223",
+    "data/curve_summary.csv": "f9d0c8c58d67c55bacfc13ace9ce4eed531defe6305bfaa3e330cfde86232458",
+    "data/endpoint_changes.csv": "6fc6777454667da8adecc8af83b69fa6f8c3a124bd89377aa892797d2d73b4d2",
+    "data/error_states.csv": "70d7cfffe3d4468ee75e3186aa1fd7b05c5be8dc2cd2d035357f646609a6def1",
+    "data/leave_one_variety_out.csv": "a8019a71622e5aa592ff4eeaa15a5eaca2fa6a79d77c083fa807d6ed610e1b38",
+    "data/paired_bootstrap_values.csv": "63b756c27b0d81ad7818443565d2f407c15fcb9c92464fb5e77526439dd8accb",
+    "data/per_variety.csv": "97e552aae71bb7fac5f990c1419d6e3645ac1cb19fd89fb272bc45facdfab472",
+    "data/sampling_repeats.csv": "e99629fa9d7a93d9546ea5c9c97ff2b334c3df97ba849fe6244995b1a083bb7b",
+    "data/tray_error_states.csv": "78bb46a7e673fcb46b32cb5bfccc648b1c40444fff0e242b7dd97b6cf9fa4007",
+    "data/weight_contrasts.csv": "d2e15130c2b15ffdc660593e4d2de1a325b574d9e2ca715e5a45635de09fee61"
+  }
+}

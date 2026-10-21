@@ -1,0 +1,13 @@
+﻿scope,schedule,contrast,k,repetitions,difference_mean,difference_std,difference_min,difference_max
+batch3_external_a_descriptive,nested_frozen,MSD_phys_minus_MD_phys,1,500,0.098,0.11090807546073822,-0.2,0.5
+batch3_external_a_descriptive,nested_frozen,MSD_phys_minus_MD_phys,10,500,0.23040000000000002,0.10264947066427235,-0.10000000000000009,0.5
+batch3_external_a_descriptive,nested_frozen,MSD_phys_minus_MD_phys,20,500,0.30000000000000004,0.09432812725365836,0.0,0.5
+batch3_external_a_descriptive,nested_frozen,MSD_phys_minus_MD_phys,3,500,0.1488,0.11698688757175929,-0.19999999999999996,0.5
+batch3_external_a_descriptive,nested_frozen,MSD_phys_minus_MD_phys,5,500,0.17320000000000002,0.10984485324113791,-0.20000000000000007,0.5
+batch3_external_a_descriptive,nested_frozen,MSD_phys_minus_MD_phys,all,500,0.5,0.0,0.5,0.5
+batch3_external_a_descriptive,nested_frozen,SD_phys_minus_D_phys,1,500,0.128,0.1356938674049148,-0.3,0.7
+batch3_external_a_descriptive,nested_frozen,SD_phys_minus_D_phys,10,500,0.2700000000000001,0.11421949126295718,-0.20000000000000007,0.6
+batch3_external_a_descriptive,nested_frozen,SD_phys_minus_D_phys,20,500,0.24860000000000002,0.10918737915865127,-0.09999999999999998,0.5
+batch3_external_a_descriptive,nested_frozen,SD_phys_minus_D_phys,3,500,0.2062,0.13363111370148123,-0.19999999999999996,0.6000000000000001
+batch3_external_a_descriptive,nested_frozen,SD_phys_minus_D_phys,5,500,0.24400000000000002,0.12367129488428875,-0.10000000000000009,0.6000000000000001
+batch3_external_a_descriptive,nested_frozen,SD_phys_minus_D_phys,all,500,0.30000000000000004,0.0,0.30000000000000004,0.30000000000000004

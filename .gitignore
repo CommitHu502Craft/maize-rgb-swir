@@ -1,0 +1,30 @@
+# Local environments, caches and generated documents/images.
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+uv.lock
+verification*.json
+*.pyc
+*.pdf
+*.docx
+*.png
+*.tif
+*.tiff
+*.log
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+*.parquet
+*.npy
+# Only the catalogued frozen replay inputs are tracked binary data.
+*.npz
+!/replay/data/batch2_bootstrap.npz
+!/replay/data/batch2_decisions.npz
+!/replay/data/batch2_schedules.npz
+!/replay/data/batch3_decisions.npz
+!/replay/data/batch3_schedules.npz
+!/replay/probabilities/batch2.npz
+!/replay/probabilities/batch3.npz

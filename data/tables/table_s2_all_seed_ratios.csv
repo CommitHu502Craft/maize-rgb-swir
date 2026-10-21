@@ -1,0 +1,4 @@
+﻿pair,residual_error_reduction,ratio_ci_2_5,ratio_ci_97_5,ratio_invalid_bootstraps
+M_to_MS,-0.2,-2.600000000000008,1.0,639
+D_to_SD,0.5175438596491213,0.0,1.0,0
+MD_to_MSD,0.6363636363636385,0.0,1.0,57
