@@ -28,6 +28,8 @@ Repository: https://github.com/CommitHu502Craft/maize-rgb-swir
 
 This repository provides the article's code and result data. Article submission files, private author records, review correspondence, historical manuscripts, raw imagery and model weights are excluded. Original batch IDs in data files remain stable; reader-facing cohort names are explained in DATA_DICTIONARY.md.
 
-Licenses have not yet been assigned by the authors.
+## License
+
+Code and software configuration: [MIT](LICENSE-CODE). Result data, protocol metadata and documentation: [CC BY 4.0](LICENSE-DATA). See [LICENSE.md](LICENSE.md) for exact file scope and attribution. Both licenses permit commercial reuse under their terms.
 
 FILE_CATALOG.csv identifies the exact contents of each revision; cite a specific commit when referring to this repository.

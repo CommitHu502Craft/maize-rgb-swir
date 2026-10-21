@@ -10,4 +10,4 @@
 
 This is a saved-result reproduction package, not a raw-image-to-trained-model reproduction package. Raw RGB/CR3/SWIR, calibration images, masks and model checkpoints are not included. Their access must be specified separately if the authors release them.
 
-Code and result data are distributed at https://github.com/CommitHu502Craft/maize-rgb-swir. Licenses have not yet been assigned by the authors. This access information applies to the included files; it does not specify access to the excluded raw acquisition data.
+Code and result data are distributed at https://github.com/CommitHu502Craft/maize-rgb-swir. Code and software configuration use MIT; result data, protocol metadata and documentation use CC BY 4.0. See LICENSE.md for scope. This access information applies to the included files; it does not specify access to the excluded raw acquisition data.

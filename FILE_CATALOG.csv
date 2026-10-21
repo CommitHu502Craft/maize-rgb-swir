@@ -1,9 +1,12 @@
 path,bytes,sha256,role
 .gitignore,546,441452183d0472e7f49a5ee1f64885c7e5277a8fc7101db78df25ac8ec7eed08,Release housekeeping
-COVERAGE_AND_RELEASE.md,1548,33c4675019399fb2d990bb9900764d8e250d6d976211927a2b71e5709cee0633,Documentation / protocol / actual verification
+COVERAGE_AND_RELEASE.md,1627,7988c6e01e68ba496904fd94c8af2733d23934948c9235d0ce1504b5194f001a,Documentation / protocol / actual verification
 DATA_DICTIONARY.md,31384,67038eca7738df28c40014379438e1b9e81c7025c22fbb8fb771b584c3237e63,Documentation / protocol / actual verification
-README.md,2337,8aa44484668ae4807bcb2f76cc9d145f99aa365a7461fe85db5068ead8b4de2f,Documentation / protocol / actual verification
-REPLAY_VERIFICATION.json,109058,2c6d0964bd61255c5518abbd71918a7839c09ac56420ddd7b5bcf21243eeec18,Documentation / protocol / actual verification
+LICENSE-CODE,1083,33e805c293c6488dc9de2bf0e3d55eb4a0eb86b79de46d2207387814675f076f,License text / file scope and attribution
+LICENSE-DATA,18656,9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94,License text / file scope and attribution
+LICENSE.md,1715,cc8474a2acd14390758c9becd8eddce2fb5ae1d5ab28cf187fe2c6da12d2108e,License text / file scope and attribution
+README.md,2552,973d26b6aa3032faa6c55a256f04a6c92ca064eceac3522bcd6310a8f83c7a60,Documentation / protocol / actual verification
+REPLAY_VERIFICATION.json,109058,7d26ff5525d602954658267469ac77f327855e60612fcb048d36e7cedb8eee25,Documentation / protocol / actual verification
 data/figure_source/Figure_2_A.csv,4027,0c0415a7359e58739d616fe07957856dda8e18d0010898b4e29995fcece662d5,Article figure source data
 data/figure_source/Figure_2_B.csv,2960,b311ba02bbd8a7f9cbdc7f50ef2a9bf6b3c2d9fcfa96880caaa765f0eae37ddf,Article figure source data
 data/figure_source/Figure_2_C.csv,3609,de1845a416a2d89fe1d79787a57c06d0d5917953de8c7951c61d420361da6c32,Article figure source data
@@ -112,7 +115,7 @@ replay/data/tray_error_states.csv,375649,78bb46a7e673fcb46b32cb5bfccc648b1c40444
 replay/data/weight_contrasts.csv,16364,d2e15130c2b15ffdc660593e4d2de1a325b574d9e2ca715e5a45635de09fee61,Frozen observation-count / weight replay input
 replay/probabilities/batch2.npz,579282,3dfe899582732538981ae57a9856864af884c3739bebaf5f62a1fb3b9b23a3bb,"Existing compact M/D/S probabilities, not model weights"
 replay/probabilities/batch3.npz,50312,e03a2cda427af4e897b551b4837c2d890723201367c6e1f7fef9bc5f12f9a7eb,"Existing compact M/D/S probabilities, not model weights"
-replay/probabilities/manifest.json,867,83f8d789e60f424867a11544ea6d9d6a032f88edf9469ce36a661ecb745d5126,"Existing compact M/D/S probabilities, not model weights"
+replay/probabilities/manifest.json,894,f2e3b6b143199c7b11a0b2fb09e088b0080bb17bf672d2b7cb9f5c2e9d04169b,"Existing compact M/D/S probabilities, not model weights"
 replay/pyproject.toml,135,b2511de0ca537e55829aa50baa151b2e80f48e0019af6f54f6a24a5d91d41706,Documentation / protocol / actual verification
 replay/replay_core.py,14980,302b6dc7ee49f390837169a34f285a7dcfd306cffb5d3ac5716050ff1d7f2cf8,Self-contained saved-output replay code
 replay/replay_portable.py,4724,692ea647ac50e43c7e8e1241fb2ce1fc1a8c75214eb159393846e71264f1010b,Self-contained saved-output replay code
